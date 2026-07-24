@@ -47,8 +47,9 @@ Operators - `for` Loop - `range()` Function
 -   Use loops effectively.
 -   Improve logical thinking.
 
+
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** RUPIN KAUL
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** rup019
